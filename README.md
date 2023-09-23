@@ -1,4 +1,4 @@
-# Ludo Board Game Project
+# Ludo Board Game
 
 <img width="1440" alt="Home Page" src="https://github.com/AshrithaB/Ludo-Board-Game/blob/master/Screenshots/Home%20page.png?raw=true"> 
 
