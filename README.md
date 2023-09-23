@@ -27,7 +27,7 @@ To play the Ludo Board Game on your local machine, follow these steps:
 2. **Clone the Repository**: Use the following command to clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/ludo-board-game.git
+git clone https://github.com/AshrithaB/ludo-board-game.git
 ```
 3. **Compile and Run**: Build and run the game on your machine. You can compile the source code and execute the game according to your development environment.
 
