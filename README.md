@@ -1,8 +1,8 @@
 # Ludo Board Game Project
 
-<!-- <img width="1440" alt="Home Page" src=""> -->
+<img width="1440" alt="Home Page" src="https://github.com/AshrithaB/Ludo-Board-Game/blob/master/Screenshots/Home%20page.png?raw=true"> 
 
-Demo: Ludo Board Game Demo.mp4
+Demo: Demo > Ludo Board Game Demo.mp4
 
 If you like this, please leave a ⭐! Thank you!
 
@@ -29,7 +29,6 @@ To play the Ludo Board Game on your local machine, follow these steps:
 ```
 git clone https://github.com/yourusername/ludo-board-game.git
 ```
-
 3. **Compile and Run**: Build and run the game on your machine. You can compile the source code and execute the game according to your development environment.
 
 4. **Enjoy**: Have fun playing Ludo on your computer!
@@ -50,5 +49,7 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 ## Acknowledgments
 
 Special thanks to the creators and contributors to the OpenGL library and the open-source community for their valuable resources and support.
+
+<img width="1440" alt="Home Page" src="https://github.com/AshrithaB/Ludo-Board-Game/blob/master/Screenshots/Game%20Inprogress.png?raw=true"> 
 
 Enjoy playing Ludo!
